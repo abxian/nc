@@ -19,7 +19,7 @@
 
         // 浮窗标题
         const title = document.createElement("h3");
-        title.innerText = "选择或输入通知内容";
+        //title.innerText = "选择或输入通知内容";
         title.style.marginBottom = "15px";
         title.style.color = "white";  
         popup.appendChild(title);
